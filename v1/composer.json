@@ -1,0 +1,6 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.8",
+        "symfony/mailer": "^5.4"
+    }
+}
